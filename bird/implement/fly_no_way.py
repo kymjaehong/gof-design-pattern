@@ -1,4 +1,4 @@
-from ..interface.fly_behavior import FlyBehavior
+from bird.interface.fly_behavior import FlyBehavior
 
 
 class FlyNoWay(FlyBehavior):
